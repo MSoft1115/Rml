@@ -11,7 +11,7 @@ read.rml:
 	single-line 1
 
 	/*
-		multi-comment
+	   multi-comment
 	*/
 	multi-line {
 		line0
