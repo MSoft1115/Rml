@@ -1,0 +1,16 @@
+// single-comment
+single-line 1
+
+/*
+	multi-comment
+*/
+multi-line {
+	line0
+	line2
+}
+
+// sub-node
+sub-node
+{
+	child 1
+}
