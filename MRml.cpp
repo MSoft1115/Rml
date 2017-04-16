@@ -234,7 +234,7 @@ namespace Rad {
 			str = _rml_skip_white(str);
 
 			// single-comment
-			if (*str == '/' && *(str + 1) == '*')
+			if (*str == '/' && *(str + 1) == '/')
 			{
 				str = _rml_skin_line(str);
 			}
