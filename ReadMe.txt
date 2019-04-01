@@ -1,11 +1,6 @@
 This soft is free, no license.
 
-Author: Myway(SiZhong.Wang)
-E-MAIL: 404793124@qq.com 
-
-
 Node based key-value document for Rad3D Engine.(It's very fast:)
-
 
 Example:
 
