@@ -1,6 +1,6 @@
 This soft is free, no license.
 
-Node based key-value document for Rad3D Engine.(It's very fast:)
+Node based key-value document for Rad3D Engine.
 
 Example:
 
